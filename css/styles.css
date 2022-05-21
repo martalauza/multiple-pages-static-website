@@ -1,0 +1,15 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+  display: block;
+  margin: 8px;
+}
+img {
+  max-width: 100%;
+  border-radius: 15px;
+  display: block;
+  margin: 30px auto;
+}
+footer a {
+  color: green;
+}
